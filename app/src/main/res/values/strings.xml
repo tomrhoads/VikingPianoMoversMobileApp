@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Viking Piano Movers</string>
+    <string name="namehint">Your Name</string>
+    <string name="emailhint">Your Email</string>
+    <string name="phonenumberhint">Your Phone Number</string>
+    <string name="piano_type_prompt">Grand, Upright, Square Grand?</string>
+    <string name="piano_type">Grand, Upright, Square Grand?</string>
+    <string name="piano_type1">Upright</string>
+    <string name="piano_type2">Grand</string>
+    <string name="piano_type3">Do Not Know</string>
+    <string name="piano_make_model_hint">Make and Model</string>
+    <string name="piano_size_hint">Upright height or Grand length</string>
+    <string name="feet_measurement">ft</string>
+    <string name="inch_measurement">in</string>
+    <string name="origin_hint">City Of Origin</string>
+    <string name="dest_hint">City Destination</string>
+    <string name="stairs_hint">Number Of Stairs Involved</string>
+    <string name="additionalComments">Additional Comments</string>
+    <string name="submit_text">Submit Pics To Viking</string>
+    <string name="picButton">Attach Pic(s)</string>
+    <string name="submit_button_text">Send</string>
+    <string name="vikingMobileLogo">Viking Logo</string>
+    <string name="aboutButton">About Button</string>
+    <string name="galleryButton">Gallery Button</string>
+    <string name="callButton">Call Button</string>
+    <string name="storageButton">Storage Button</string>
+    <string name="quoteButton">Quote Button</string>
+    <string name="galleryimg1">First gallery image</string>
+    <string name="gallerylogo">Viking Gallery Logo</string>
+    <string name="yelpButton">Yelp Button</string>
+    <string name="galleryimg2">Second Gallery image</string>
+    <string name="viking_quote_logo">Viking Quote Logo</string>
+    <string name="attachedCameraImage1">First attached camera image</string>
+    <string name="attachedCameraImage2">Second attached camera image</string>
+    <string name="action_settings">Action Settings</string>
+    <string name="galleryimage1">galleryimg2</string>
+    <string name="galleryimg3">Third gallery image</string>
+    <string name="galleryimg4">Fourth gallery image</string>
+    <string name="galleryimg5">Fifth gallery image</string>
+    <string name="galleryimg6">Sixth gallery image</string>
+    <string name="galleryimg7">Seventh gallery image</string>
+    <string name="whyASpecialist">Why a Specialist To Move Your Piano?</string>
+    <string name="aboutLogo">About Page Logo</string>
+    <string name="storagelogo">Storage Page Logo</string>
+    <string name="album_name">CameraSample</string>
+    <string name="pianoSize">Piano Size</string>
+    <string name="smallUpright">Small Upright (48in and shorter)</string>
+    <string name="largeUpright">Large Upright (Taller than 48in)</string>
+    <string name="babyGrand">Baby Grand (5ft)</string>
+    <string name="parlorGrand">Parlor Grand (6ft)</string>
+    <string name="concertGrand">Concert Grand (7ft and up)</string>
+    <string name="monthlyRate">Monthly Rate</string>
+    <string name="smallUprightRate">$65</string>
+    <string name="largeUprightRate">$85</string>
+    <string name="babyGrandRate">$115</string>
+    <string name="parlorGrandRate">$125</string>
+    <string name="concertGrandRate">Call for quote</string>
+    <string name="experienceMatters">Experience Matters</string>
+    <string name="everyMoveIsUnique">Every Move Is Unique</string>
+    <string name="equipmentMatters">Equipment Matters</string>
+    <string name="familyOwnedBusiness">A Family-Owned Business</string>
+    <string name="pledge">A Pledge</string>
+    <string name="whyASpecialistText">"        We love and respect pianos! As a musician, I know how valuable and treasured a piano is to a home and a family.
+        Pianos are musical instruments as well as beautiful or often elegant pieces of furniture that need special attention beyond what is required for moving household items. Moving a piano is dramatically distinct from moving even the largest, most valuable antique dresser.
+        As quality musical instruments, pianos require sensitivity coupled with knowledge and experience to guarantee the best methods used in moving. Few movers understand the specific needs to handling sound boards, internal mechanisms, and the proper way to disassemble and assemble pianos for a move."</string>
+
+    <string name="experienceMattersText">In over 15 years of moving experience, I have moved more than 25,000 pianos! I have worked with the top dealers in the San Francisco Bay Area. I have transported pianos for the Monterey Jazz Festival, San Francisco Opera, San Francisco Symphony, large arena venues for concerts, and other special public events. Moves have also included weddings, funerals, churches, schools, recitals, and private parties. I have been entrusted with $150,000 Bosendorfers, grandma’s 1927 upright, digital grands, and a family’s purchase of a second-hand spinet for a child’s beginning piano lessons. Each piano is treated with the respect as the valued object it is for the owner.</string>
+
+    <string name="everyMoveIsUniqueText">Only a skilled piano mover can go into any situation, assess the intricacies of a complicated move, and know the right technique to safely transport it to its final destination. Stairs, turns on the stairs, protecting hard wood floors, steep driveways, hills, elevators, and even tight squeezes is where we excel in delivering customer satisfaction.
+        At the same time, each piano is different, and every manufacturer unique. We are fully equipped with just the right tools to address the specific needs of every aspect of moving any piano.</string>
+    <string name="equipmentMattersText">All the equipment used in the moving of your piano is the best on the market. Our 2009 Isuzu truck is state-of-the-art. We are proud that we have the most updated, environmentally efficient engine which has a 90% lower rate of emissions. It is specially fitted to move pianos with a customized lift gate, providing a larger platform for safe loading and unloading.
+        We maintain and replace equipment on a regular schedule. Grand pianos require a “skid board” or a “piano board” that allows us to dismantle and transport the piano in such a way to assure the piano is protected and stabilized. We make generous use of moving blankets to protect the all fine finishes.</string>
+
+    <string name="familyOwnedBusinessText">I chose to “come home” to the North Bay to found my business, Viking Piano Movers. I was born in San Francisco and raised in Marin County. It is the place I love to meet with friends, and sit down to play my piano or my guitar.</string>
+
+    <string name="pledgeText">I pledge to provide the best service possible from the moment I pick up a piano until it is appropriately placed where it will be played and enjoyed. I am a hard worker, dedicated to making every move the most important one.</string>
+
+    <string-array name="piano_type_list">
+        <item>@string/piano_type1</item>
+        <item>@string/piano_type2</item>
+        <item>@string/piano_type3</item>
+    </string-array>
+    <string-array name="piano_measurement_type">
+        <item>@string/feet_measurement</item>
+        <item>@string/inch_measurement</item>
+    </string-array>
+    <string name="image_desc_string">Image</string>
+
+
+</resources>

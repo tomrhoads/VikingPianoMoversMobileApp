@@ -1,0 +1,115 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:layout_width="250dp"
+            android:layout_height="75dp"
+            android:layout_marginTop="2dp"
+            android:src="@drawable/vikingaboutuslogo"
+            android:contentDescription="@string/aboutLogo"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="5dp" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_margin="5dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/whyASpecialist"
+                android:textStyle="bold"
+                android:textSize="21sp"
+                android:layout_gravity="center"
+                android:layout_margin="5dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/whyASpecialistText"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/experienceMatters"
+                android:textStyle="bold"
+                android:textSize="21sp"
+                android:layout_gravity="center"
+                android:layout_margin="5dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/experienceMattersText"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/everyMoveIsUnique"
+                android:textStyle="bold"
+                android:textSize="21sp"
+                android:layout_gravity="center"
+                android:layout_margin="5dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/everyMoveIsUniqueText"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/equipmentMatters"
+                android:textStyle="bold"
+                android:textSize="21sp"
+                android:layout_gravity="center"
+                android:layout_margin="5dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/equipmentMattersText"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/familyOwnedBusiness"
+                android:textStyle="bold"
+                android:textSize="21sp"
+                android:layout_gravity="center"
+                android:layout_margin="5dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/familyOwnedBusinessText"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/pledge"
+                android:textStyle="bold"
+                android:textSize="21sp"
+                android:layout_gravity="center"
+                android:layout_margin="5dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/pledgeText"/>
+
+        </LinearLayout>
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
